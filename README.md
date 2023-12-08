@@ -1,9 +1,4 @@
 <img src="https://i.ibb.co/1mNypsP/Blue-Tosca-Geometric-Technology-Linkedln-Banner.gif" />
-
-
-<h1 align="center">Hi 👋, I'm Rasel Khan</h1>
-<h3 align="center">A Passionate Front-End Developer from Bangladesh</h3>
-
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=rasel6518&theme=ambient-gradient&border_radius=4&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=600&background=45%2CFD3E32%2CFF8F4C" alt="GitHub Streak" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rasel6518&label=Profile%20views&color=0e75b6&style=flat" alt="rasel6518" /> </p>
