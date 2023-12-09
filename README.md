@@ -1,8 +1,5 @@
 <img src="https://i.ibb.co/1mNypsP/Blue-Tosca-Geometric-Technology-Linkedln-Banner.gif" />
 <br>
-<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=rasel6518&theme=ambient-gradient&border_radius=4&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=600&background=45%2CFD3E32%2CFF8F4C" alt="GitHub Streak" /></p>
-<br>
-
 <h2 align="left">Present Summary</h2>
 
 - 🔭 I’m currently working on [Pet adoption Platform](https://petpals-bd.web.app)
@@ -16,6 +13,14 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1LDB4X2ZaD4LZyelSKiiWZ_d8Dw4f3Dtu/view?usp=drive_link](https://drive.google.com/file/d/1LDB4X2ZaD4LZyelSKiiWZ_d8Dw4f3Dtu/view?usp=drive_link)
 
 - ⚡ Fun fact **Coding**
+  
+<p align="center">  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rasel6518&theme=gruvbox&exclude=html,css,javasript,react"    />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rasel6518&theme=gruvbox&exclude=html,css,javasript" />
+</p>
+<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=rasel6518&theme=ambient-gradient&border_radius=4&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=600&background=45%2CFD3E32%2CFF8F4C" alt="GitHub Streak" /></p>
+<br>
+
+
 
 <h2 align="center">Let's Connect:</h2>
 <br>
